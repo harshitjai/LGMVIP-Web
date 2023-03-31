@@ -2,7 +2,6 @@
 LetsGrowMore Web Developer Virtual Internship Program (LGMVIP-Web)
 
 Tasks-
-
-<b>To Do List</b><br>
-<b>Student Enrollment App</b><br>
-<b>Calculator App</b><br>
+<b>1. To Do List</b><br>
+<b>2. Student Enrollment App</b><br>
+<b>3. Calculator App</b><br>
